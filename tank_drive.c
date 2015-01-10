@@ -8,6 +8,11 @@
 
 #include "JoystickDriver.c"
 
+int speedCurve(int x)
+{
+	return 0.0000216166*pow(x,3)+1.19001*pow(10,-18)*pow(x,2)+0.427083*x;
+}
+
 task main()
 {
 	while(true)
