@@ -24,7 +24,7 @@
 |			----------------------
 |
 |		Left Joystick Up/Down = Left Motor Speed on curve
-|		Right Joystick Up/Down = Right Motor Speed on cruve
+|		Right Joystick Up/Down = Right Motor Speed on curve
 |
 |		Left Bumper lifts the linear slide
 |		Right Bumper lowers the linear slide
